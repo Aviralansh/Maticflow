@@ -63,8 +63,7 @@ Wallet integration screen showing the user's connected Polygon wallet, token bal
 - [x] **Phase 5:** Testing & Optimization
 - [x] **Phase 6:** Launch
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📄 No License
 
 ## 📧 Contact
 For any queries or collaborations, please reach out via discord:@guy.cs.
