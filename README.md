@@ -18,7 +18,7 @@
 ## 💻 Download MaticFlow
 Get started with smarter gas fee predictions today:
 
-📱 **[Download MaticFlow App](https://maticflow.aviralansh.xyz)** - Optimize your Polygon transactions now!
+📱 **[Download MaticFlow App](https://maticflow.aviralansh.dev)** - Optimize your Polygon transactions now!
 
 ## 🖼️ User Interface
 ### Home Screen
